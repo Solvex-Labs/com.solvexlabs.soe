@@ -2,7 +2,7 @@
     "name": "com.splashgames.soe",
     "version": "1.0.0",
     "displayName": "Scriptable Object Editor",
-    "description": "Scriptable Object Editor – это удобный инструмент для Unity, предназначенный для редактирования и управления ScriptableObject прямо в редакторе.",
+    "description": "Scriptable Object Editor is a tool for Unity that allows you to view and edit ScriptableObject directly in the editor. It makes it easy to manage configurations, simplifies folder navigation, and provides a user-friendly interface for editing data..",
     "unity": "2022.3",
     "documentationUrl": "https://github.com/splash-games-studio/com.splashgames.soe/?tab=readme-ov-file",
     "licensesUrl": "https://github.com/splash-games-studio/com.splashgames.soe/?tab=MIT-1-ov-file",
