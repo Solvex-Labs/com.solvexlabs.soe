@@ -1,16 +1,16 @@
 {
-  "name": "com.splashgames.template",
-  "version": "1.0.0",
-  "displayName": "Template",
-  "description": "Template description",
-  "unity": "2022.3",
-  "documentationUrl": "https://example.com/",
-  "licensesUrl": "https://example.com/licensing.html",
-  "dependencies": { },
-  "author": {
-        "email": "exemple@splashgames.app",
-        "name": "Name Surname",
-        "url": "https://google.com"
+    "name": "com.splashgames.soe",
+    "version": "1.0.0",
+    "displayName": "Scriptable Object Editor",
+    "description": "Scriptable Object Editor – это удобный инструмент для Unity, предназначенный для редактирования и управления ScriptableObject прямо в редакторе.",
+    "unity": "2022.3",
+    "documentationUrl": "https://github.com/splash-games-studio/com.splashgames.soe/?tab=readme-ov-file",
+    "licensesUrl": "https://github.com/splash-games-studio/com.splashgames.soe/?tab=MIT-1-ov-file",
+    "dependencies": {},
+    "author": {
+        "email": "artemsvobodin@splashgames.app",
+        "name": "Artem Svobodin",
+        "url": "https://github.com/SvobodinF"
     },
-  "iconPath": "Resources/packageIcon.png"
+    "iconPath": "Resources/packageIcon.png"
 }
