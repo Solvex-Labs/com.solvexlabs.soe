@@ -3,6 +3,8 @@ using System.IO;
 using UnityEditor;
 using UnityEngine;
 
+namespace SplashGamesInternal.Editor.SOE
+{
 public class ConfigBrowser : EditorWindow
 {
     private const string DefaultPath = "Assets/_MainProject/ScriptableObjects";
@@ -339,4 +341,5 @@ public class ConfigBrowser : EditorWindow
             SubFolders = new Dictionary<string, FolderNode>();
         }
     }
+}
 }
