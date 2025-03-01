@@ -1,6 +1,6 @@
 {
-    "name": "SplashGames.Internal.SOE.Editor",
-    "rootNamespace": "SplashGames.Internal.SOE",
+    "name": "Solvex.Internal.SOE.Editor",
+    "rootNamespace": "Solvex.Internal.SOE",
     "references": [],
     "includePlatforms": [
         "Editor"
